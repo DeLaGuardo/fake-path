@@ -1,0 +1,19 @@
+{
+  "name": "fake-path",
+  "version": "1.0.0",
+  "description": "Fake package.json for require('path')",
+  "main": "path.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeLaGuardo/fake-path.git"
+  },
+  "author": "DeLaGuardo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DeLaGuardo/fake-path/issues"
+  },
+  "homepage": "https://github.com/DeLaGuardo/fake-path#readme"
+}
